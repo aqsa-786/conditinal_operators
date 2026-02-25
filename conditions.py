@@ -6,5 +6,6 @@ if 100 > 20:
 marks = int(input("enter your marks:"))
 if marks < 90:
     print("this is the result of first semester",'marks')
+    print("mubarak ho ap pass ho gye")
     percentage = marks/100*100
     print("your percentage after your hardwork is:",percentage,"%")
